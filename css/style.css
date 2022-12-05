@@ -1,0 +1,10 @@
+.sfondo-barra{
+    background-color:	#6495ed;
+    background-size: cover;
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: 0% bottom ;
+    width: 100%;
+    height: 150px;;
+}
