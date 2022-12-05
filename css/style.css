@@ -1,3 +1,4 @@
+/* Proprietà per la barra azzurra */
 header{
     background-color:	#6495ed;
     background-image: url(../img/pattern.png);
@@ -7,4 +8,21 @@ img{
     margin-top: 5%;
     height: 120px;
     width: 20%;
+}
+
+/* Proprietà della prima section */
+.note{
+    font-size: x-small;
+    color: gray;
+    margin-top: 0;
+}
+.blue{
+   color: #00bfff;
+}
+.foto-tim{
+    width: 48%;
+    height: auto;
+}
+.description-photo{
+    font-size: xx-small;
 }
