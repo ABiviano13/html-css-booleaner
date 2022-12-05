@@ -1,6 +1,6 @@
 /* Proprietà per la barra azzurra */
 header{
-    background-color:	#6495ed;
+    background-color:	#4076b9;
     background-image: url(../img/pattern.png);
     background-size: contain;
 }
@@ -29,5 +29,17 @@ img{
 
 /* Proprietà della seconda section */
 .important{
-    background-color: 	#ffff00;
+    background-color: 	#fefe00;
 }
+/* Proprietà della sezione-tabella */
+.table{
+    border: 1px solid black;
+}
+.sezione-blu{
+    background-color: 	#1fa9e5;
+    color: white;
+}
+.sezione-azzurra{
+    background-color: 	#b1e5f2;
+}
+
