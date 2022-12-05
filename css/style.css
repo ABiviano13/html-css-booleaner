@@ -11,6 +11,9 @@ img{
 }
 
 /* Proprietà della prima section */
+.titolo{
+    margin-bottom: 20px;
+}
 .note{
     font-size: x-small;
     color: gray;
@@ -31,9 +34,10 @@ img{
 .important{
     background-color: 	#fefe00;
 }
+
 /* Proprietà della sezione-tabella */
 .table{
-    border: 1px solid black;
+    margin-bottom: 20px;;
 }
 .sezione-blu{
     background-color: 	#1fa9e5;
@@ -43,3 +47,22 @@ img{
     background-color: 	#b1e5f2;
 }
 
+/* Proprietà Footer */
+#testo-footer{
+    color: gray;
+    margin-top: 5%;
+}
+
+.immagine-testo-footer{
+    background-image: url(../img/monitor.jpg);
+    width: 30%;
+    height: 150px;
+}
+.immagine-testo-footer1{
+    background-image: url(../img/graph.jpg);
+    width: 30%;
+    height: 150px;
+}
+.testoimmagine{
+    color: whitesmoke;
+}
